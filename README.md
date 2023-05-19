@@ -9,7 +9,6 @@ Summarized existing analysis methods for RIP-seq, including alignment, peak call
 5. annotation
 
 ## peak calling methods
-
-### https://github.com/Xinglab/CLAM
-https://github.com/smithlabcode/piranha
-https://bioconductor.riken.jp/packages/3.4/bioc/html/RIPSeeker.html
+1. https://github.com/Xinglab/CLAM
+2. https://github.com/smithlabcode/piranha
+3. https://bioconductor.riken.jp/packages/3.4/bioc/html/RIPSeeker.html
