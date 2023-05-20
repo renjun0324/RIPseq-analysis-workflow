@@ -14,7 +14,7 @@ https://github.com/Xinglab/CLAM
 ### Piranha
 https://github.com/smithlabcode/piranha
 
-####installation: 
+#### installation: 
 conda activate python2.7
 
 conda install -c bioconda piranha
