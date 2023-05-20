@@ -10,5 +10,14 @@ Summarized existing analysis methods for RIP-seq, including alignment, peak call
 
 ## peak calling methods
 1. https://github.com/Xinglab/CLAM
-2. https://github.com/smithlabcode/piranha
-3. https://bioconductor.riken.jp/packages/3.4/bioc/html/RIPSeeker.html
+
+### Piranha
+installation: 
+conda activate python2.7
+conda install -c bioconda piranha
+https://github.com/smithlabcode/piranha\
+
+4. https://bioconductor.riken.jp/packages/3.4/bioc/html/RIPSeeker.html
+
+## Software installation
+1. piranha
