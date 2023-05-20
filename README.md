@@ -16,7 +16,6 @@ https://github.com/smithlabcode/piranha
 
 #### installation: 
 conda activate python2.7
-
 conda install -c bioconda piranha
 
 
