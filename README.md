@@ -9,10 +9,11 @@ Summarized existing analysis methods for RIP-seq, including alignment, peak call
 5. annotation
 
 ## peak calling methods
-1. https://github.com/Xinglab/CLAM
+https://github.com/Xinglab/CLAM
 
 ### Piranha
 https://github.com/smithlabcode/piranha
+
 ####installation: 
 conda activate python2.7
 
