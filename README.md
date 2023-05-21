@@ -31,4 +31,4 @@ conda install -c bioconda piranha
 ```
 ### 3. RIPSeeker
 https://bioconductor.riken.jp/packages/3.4/bioc/html/RIPSeeker.html
-
+https://github.com/yueli-compbio/RIPSeeker
